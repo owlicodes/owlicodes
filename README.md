@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owlicodes
+- 👋 Hi, I’m @owlicodes (Jose Diago)
 - 👀 I’m interested in web application development using react and nestjs
 - 🌱 I’m currently learning react native, nextjs and hono
 - 💞️ I’m looking to collaborate on web development with modern JavaScript frameworks
